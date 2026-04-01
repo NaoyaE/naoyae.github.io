@@ -34,7 +34,9 @@ title: Profile
         Naoya Egawa (江川　直也、えがわ　なおや)</a></h2>
   PhD in Science, Tohoku University
 
-  Working on theoretical physics
+  <p>Working on theoretical physics</p>
+
+  <p>Keywords: Quantum many-body systems, Nonequilibrium phenomena, Time crystals, Defects in diamond, Quantum computation</p>
 
 <!-- 
   <img src="{{ site.baseurl }}/assets/images/profile.jpeg" alt="About Image" style="max-width:300px; display:block; margin-bottom:20px;"> -->
