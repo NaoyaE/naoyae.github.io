@@ -31,6 +31,9 @@ title: Profile
 <section id="profile">
 
   <h2>Naoya Egawa (江川　直也、えがわ　なおや)</h2>
+  PhD in Science, Tohoku University
+  
+  Theoretical physics
 
 <!-- 
   <img src="{{ site.baseurl }}/assets/images/profile.jpeg" alt="About Image" style="max-width:300px; display:block; margin-bottom:20px;"> -->
