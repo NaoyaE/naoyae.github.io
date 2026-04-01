@@ -14,5 +14,4 @@ title: Contact
   <!-- <p>Address: #937, Aramaki Aoba, Aoba-ku, Sendai, 980-0845 Japan</p> -->
   <p>Email: <span>egawa.naoya.p4 (at) dc.tohoku.ac (dot) jp</span></p>
   <p>Personal Email: <span>egawanaoyazt1 (at) gmail (dot) com</span></p>
-  <p>TEL: (+81) 80 1251 7514</p>
 </section>
