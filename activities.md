@@ -10,10 +10,10 @@ title: Activities
     <div class="accordion-content">
         <ul>
           <li>
-            <b>Naoya Egawa</b>, Kaoru Mizuta, Joji Nasu, “Controlling discrete time crystals via single-site operations in zero-field diamond quantum simulators”, arXiv preprint <a href="https://arxiv.org/abs/2412.07400" target="_blank">arXiv:2412.07400</a>, Dec. 2024.
+            <b>Naoya Egawa</b>, Kaoru Mizuta, Joji Nasu, “Quantum signal processing in Hilbert space fragmented systems”, arXiv preprint <a href="https://arxiv.org/abs/2603.16784" target="_blank">arXiv:2603.16784</a>, Mar. 2026.
           </li>
           <li>
-            <b>Naoya Egawa</b>, Kaoru Mizuta, Joji Nasu, “Quantum signal processing in Hilbert space fragmented systems”, arXiv preprint <a href="https://arxiv.org/abs/2603.16784" target="_blank">arXiv:2603.16784</a>, Mar. 2026.
+            <b>Naoya Egawa</b>, Kaoru Mizuta, Joji Nasu, “Controlling discrete time crystals via single-site operations in zero-field diamond quantum simulators”, arXiv preprint <a href="https://arxiv.org/abs/2412.07400" target="_blank">arXiv:2412.07400</a>, Dec. 2024.
           </li>
         </ul>
     </div>
